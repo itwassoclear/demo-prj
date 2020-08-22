@@ -12,6 +12,10 @@ class Message extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
+  componentWillUnmount() {
+
+  }
+
   handleClick() {
     const { isLiked, counter } = this.state;
     this.setState({ isLiked: !isLiked, counter: counter + 1 });
