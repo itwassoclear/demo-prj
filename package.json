@@ -2,6 +2,10 @@
   "name": "demo-prj",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://itwassoclear.github.io/demo-prj",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -13,6 +17,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demo-prj/static/css/main.3d7ce3de.chunk.css",
+    "main.js": "/demo-prj/static/js/main.c08d2500.chunk.js",
+    "main.js.map": "/demo-prj/static/js/main.c08d2500.chunk.js.map",
+    "runtime-main.js": "/demo-prj/static/js/runtime-main.5085d27f.js",
+    "runtime-main.js.map": "/demo-prj/static/js/runtime-main.5085d27f.js.map",
+    "static/js/2.30334a10.chunk.js": "/demo-prj/static/js/2.30334a10.chunk.js",
+    "static/js/2.30334a10.chunk.js.map": "/demo-prj/static/js/2.30334a10.chunk.js.map",
+    "index.html": "/demo-prj/index.html",
+    "precache-manifest.f734cefabea6834b822eb2bd49d51b4c.js": "/demo-prj/precache-manifest.f734cefabea6834b822eb2bd49d51b4c.js",
+    "service-worker.js": "/demo-prj/service-worker.js",
+    "static/css/main.3d7ce3de.chunk.css.map": "/demo-prj/static/css/main.3d7ce3de.chunk.css.map",
+    "static/js/2.30334a10.chunk.js.LICENSE.txt": "/demo-prj/static/js/2.30334a10.chunk.js.LICENSE.txt",
+    "static/media/Message.css": "/demo-prj/static/media/red.a1956fe5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5085d27f.js",
+    "static/js/2.30334a10.chunk.js",
+    "static/css/main.3d7ce3de.chunk.css",
+    "static/js/main.c08d2500.chunk.js"
+  ]
+}
